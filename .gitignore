@@ -19,3 +19,4 @@ writable/uploads/*
 .DS_Store
 Thumbs.db
 .vscode/
+*.zip
