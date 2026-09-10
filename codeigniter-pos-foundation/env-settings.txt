@@ -1,6 +1,0 @@
-# Copy the following setting into your project's .env file.
-# Make sure the line does not begin with a # character.
-
-CI_ENVIRONMENT = development
-app.baseURL = 'http://localhost:2006/'
-
